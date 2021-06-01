@@ -1,0 +1,5 @@
+Gra jest inspirowana kreskówką/serialem animowanym "Rick and Morty", który serdecznie polecam :)
+
+Grafika pochodzi z Google Grafika - ciężko mi dokładnie określic skąd (obawiam się, że nie ma do niej praw).
+Czcionkę pobrałam z tej strony : https://www.dafont.com/wicked-scary-movie.font,
+a dźwięki z tej: https://www.101soundboards.com/search/rick%20and%20morty.
